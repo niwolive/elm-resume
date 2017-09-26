@@ -167,7 +167,7 @@ aside =
                 [ circle 110 Avatar [ paddingBottom 15, center, clip ] <|
                     image "https://cloudinary-a.akamaihd.net/hopwork/image/upload/h_110,w_110,c_thumb,g_face,z_0.4,q_auto,dpr_2.0/huy47yzfugtsrxhfymtr.webp" None [] empty
                 , el Name [ center ] <| text "Nicolas Wormser"
-                , el None [ center ] <| text "JUNIOR APPLICATION ENGINEER"
+                , el None [ center ] <| text "FRONTEND & UX ENGINEER"
                 , textLayout None
                     []
                     [ details "envelop" <| text "nicolas@codewithflair.org"
